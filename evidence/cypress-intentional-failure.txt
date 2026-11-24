@@ -1,0 +1,70 @@
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        16.2.1                                                                         │
+  │ Browser:        Custom Chrome 157 (headless)                                                   │
+  │ Node Version:   v24.20.0 (C:\Program Files\nodejs\node.exe)                                    │
+  │ Specs:          1 found (web-form.cy.js)                                                       │
+  │ Searched:       C:\Users\janni\Documents\QA15\ui-lab\cypress\cypress\e2e\web-form.cy.js        │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Running:  web-form.cy.js                                                                  (1 of 1)
+
+
+  Web form
+    1) fills in the fields and sends the form
+
+
+  0 passing (14s)
+  1 failing
+
+  1) Web form
+       fills in the fields and sends the form:
+
+      Timed out retrying after 10000ms
+      + expected - actual
+
+      -'Web form'
+      +'Web Form'
+
+      at Context.eval (webpack://ui-lab-cypress/./cypress/e2e/web-form.cy.js:5:15)
+
+
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        1                                                                                │
+  │ Passing:      0                                                                                │
+  │ Failing:      1                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  1                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     13 seconds                                                                       │
+  │ Spec Ran:     web-form.cy.js                                                                   │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  (Screenshots)
+
+  -  C:\Users\janni\Documents\QA15\ui-lab\evidence\cypress-intentional-failure\web-fo     (1262x624)
+     rm.cy.js\Web form -- fills in the fields and sends the form (failed).png
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ×  web-form.cy.js                           00:13        1        -        1        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ×  1 of 1 failed (100%)                     00:13        1        -        1        -        -

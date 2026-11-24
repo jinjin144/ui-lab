@@ -1,0 +1,12 @@
+target/
+.venv/
+node_modules/
+__pycache__/
+cypress/cypress/downloads/
+.DS_Store
+.idea/
+.vscode/
+robot/output.xml
+robot/log.html
+robot/report.html
+robot/*.png
