@@ -1,6 +1,6 @@
 # ตรวจงานก่อนส่ง
 
-สถานะ: สำเนางานในเครื่องสำหรับตรวจ ยังไม่ได้สร้างหรือ push GitHub และยังไม่ได้ส่ง MyCourses
+สถานะ: เผยแพร่ GitHub แล้วตามคำสั่งผู้ใช้ https://github.com/jinjin144/ui-lab ยังไม่ได้ส่ง MyCourses
 
 - เลือก Part 3 Robot Framework และ Part 4 Cypress
 - อ่านผล Part 0 และตารางผลจริงใน `RESULTS.md` โดยเฉพาะขั้น 7 ของรันผ่านหน้าเว็บที่ไม่พบพิซซ่าใน admin

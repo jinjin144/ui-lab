@@ -2,7 +2,7 @@
 
 Selected tools: **Part 3, Robot Framework**, and **Part 4, Cypress**.
 
-This is a local review copy. Nothing has been pushed to GitHub or submitted to MyCourses. See [RESULTS.md](RESULTS.md) for observations, run results, and reflection answers, and [REVIEW.md](REVIEW.md) for the review checklist.
+Published to https://github.com/jinjin144/ui-lab after review authorization. MyCourses submission is not recorded. See [RESULTS.md](RESULTS.md) for observations, run results, and reflection answers, and [REVIEW.md](REVIEW.md) for the review checklist.
 
 ## Setup on Windows
 

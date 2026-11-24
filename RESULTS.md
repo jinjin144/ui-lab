@@ -2,7 +2,7 @@
 
 Tool parts that I chose: **Part 3: Robot Framework** and **Part 4: Cypress**.
 
-Review copy prepared with assistant-operated runs on 24 November 2026. All observed times are Asia/Bangkok (UTC+7). No GitHub publication or MyCourses submission has been performed. Part B is a draft for the student's review.
+Review copy prepared with assistant-operated runs on 24 November 2026. All observed times are Asia/Bangkok (UTC+7). Published to GitHub after authorization; no MyCourses submission has been performed. Part B is a draft for the student's review.
 
 ## Part 0
 
